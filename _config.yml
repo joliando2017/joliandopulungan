@@ -21,11 +21,11 @@
 title: JolianPul
 email: joliando2017@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Saya sedang belajar menulis blog. Pada blog ini saya akan membagikan artikel yang berhubungan Sistem Informasi
-  dan lainnya. Semoga postingan yang ada bermanfaat bagi yang membaca.
+  Hai, Terima kasih telah berkunjung. Saya sedang belajar menulis blog. Pada blog ini saya akan membagikan artikel yang berhubungan dengan Sistem Informasi
+  dan lainnya. Semoga postingan yang ada bermanfaat bagi yang pembaca.
 baseurl: "joliandopulungan" # the subpath of your site, e.g. /blog
 url: "https://joliando2017.github.io/joliandopulungan/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: JolianPul
 github_username: joliando2017
 
 # Build settings
