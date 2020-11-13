@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: JolianPul
+email: joliando2017@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Saya sedang belajar menulis blog. Pada blog ini saya akan membagikan artikel mengenai Sistem Informasi
+  Saya sedang belajar menulis blog. Pada blog ini saya akan membagikan artikel yang berhubungan Sistem Informasi
   dan lainnya. Semoga postingan yang ada bermanfaat bagi yang membaca.
 baseurl: "joliandopulungan" # the subpath of your site, e.g. /blog
 url: "https://joliando2017.github.io/joliandopulungan/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: 
+github_username: joliando2017
 
 # Build settings
 theme: minima
